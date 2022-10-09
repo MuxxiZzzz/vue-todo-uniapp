@@ -23,7 +23,6 @@ export default Vue.extend({
 </script>
 
 <style lang="scss" scoped>
-@import "@/style/index.scss";
 .content {
   display: flex;
   flex-direction: column;
@@ -45,5 +44,8 @@ export default Vue.extend({
 .title {
   font-size: 36rpx;
   color: #8f8f94;
+}
+
+.title2 {
 }
 </style>
